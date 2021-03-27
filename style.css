@@ -1,0 +1,10 @@
+.body_background {
+background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com.au%2Fpin%2F827747606504121106%2F&psig=AOvVaw2h0yI-6SB5i8s2dsIcz5Ud&ust=1616956071915000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiB4vWM0e8CFQAAAAAdAAAAABAD");
+background-position: center;
+background-size: cover;
+}
+
+h1{
+    color: rgb(17, 0, 255); 
+    font-size: 40px;
+}
